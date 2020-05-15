@@ -3,6 +3,6 @@ package dude;
 public class bro {
     public void bro()
     {
-        System.out.println("Doo doo doo doo doo doo");
+        System.out.println("Doo DOO doo doo-doo doo");
     }
 }
